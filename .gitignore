@@ -1,0 +1,13 @@
+# Virtual environment
+dbt-env/
+
+
+# Environment files
+.env 
+
+# Python
+__pycache__/
+*.pyc
+
+# logs
+dbt.log
